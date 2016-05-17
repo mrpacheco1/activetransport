@@ -49,10 +49,12 @@ li:hover{
 	position:relative;
 	margin:auto;
 	top:40px;
-	width:375px;
+	width:100%;
 	height:auto;
 	}
-
+	#mainpic img{
+		height: 350px;
+	}
 #midcontent{
 	position:relative;
 	margin:auto;
