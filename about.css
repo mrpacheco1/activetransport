@@ -54,6 +54,10 @@ li:hover {
 	text-align:center;
 }
 
+#mainpic img{
+		height: 600px;
+}
+
 #midcontent {
 	position:relative;
 	margin:auto;

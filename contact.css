@@ -51,6 +51,9 @@ li:hover{
 	height:auto;
 	text-align:center;
 }
+#mainpic img {
+	height: 600px;
+}
 	
 #midcontent{
 	position:relative;
@@ -104,7 +107,7 @@ li:hover{
 
 #map{
 	position:absolute;
-	left:30px;
+	left:10px;
 	top:25px;
 	}
 	

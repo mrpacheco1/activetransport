@@ -52,7 +52,9 @@ li:hover{
 	width:100%;
 	height:auto;
 	}
-
+#mainpic img{
+	height: 300px;
+}
 #midcontent{
 	position:relative;
 	margin:auto;

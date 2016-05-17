@@ -221,6 +221,7 @@ padding-top: 8.5%;
 	width:370px;
 	height:700px;
 	margin:auto;
+	top: 90px;
 	
 	}	
 	
@@ -251,7 +252,7 @@ padding-top: 8.5%;
 	
 #mobilemap{
 	position:absolute;
-	top:-50px;
+	top:-150px;
 	display:inline;
 	left:5px;
 }
@@ -287,7 +288,7 @@ padding-top: 8.5%;
 	
 #footer{
 	position:relative;
-	top:330px;
+	top:420px;
 	width:100%;
 	background:#253F66;
 	}
@@ -303,6 +304,6 @@ padding-top: 8.5%;
 }
 
 #cardContainer{
-	top: 370px;
+	top: 450px;
 }
 

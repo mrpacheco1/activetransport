@@ -51,6 +51,9 @@ li:hover{
 	width:100%;
 	height:auto;
 	}
+	#mainpic img {
+	height: 350px;
+}
 
 #midcontent{
 	position:relative;
@@ -87,6 +90,7 @@ li:hover{
 	position:absolute;
 	width:370px;
 	height:auto;
+	top:180px;
 	}	
 	
 #info{
@@ -110,7 +114,7 @@ li:hover{
 	
 #mobilemap{
 	position:absolute;
-	top:0px;
+	top:-100px;
 	display:inline;
 	left:5px;
 }	
@@ -123,7 +127,7 @@ li:hover{
 	bottom:0;
 	width:100%;
 	background:#253F66;
-    margin-top: 23%;
+    margin-top: 25%;
 	}
 
 #foot{
