@@ -17,7 +17,7 @@ img{
 	background: #253F66;
 	}
 
-nav{
+#banner nav{
 	position:relative;
 	left:-23px;
 	margin-top:-14px;
@@ -27,7 +27,7 @@ nav{
 	background:--- red;
 	}
 
-li{
+#banner li{
 	display:inline;
 	font-size:34px;
 	padding:3px;
@@ -239,6 +239,7 @@ li:hover{
 	bottom:0;
 	width:100%;
 	background:#253F66;
+	top:1400px;
 	}
 
 #footerText{
@@ -248,4 +249,35 @@ li:hover{
     left: 0px;
     /* right: 120px; */
     font-family: 'Philosopher', sans-serif;
+}
+#lst{
+	position: relative;
+	margin: auto;
+	background: ---red;
+	width: 500px;
+	height: 650px;
+}
+#lista1{
+	position: absolute;
+	width: 500px;
+	margin-right: -300px;
+}
+
+.list1{
+	display: block;
+	color: black;
+	font-size: 23px;
+	margin-left: 75px;
+}
+#lista2{
+	position: absolute;
+	top: 363px;
+
+}
+
+.list2{
+	display: block;
+	color: black;
+	font-size: 23px;
+		margin-left: 75px;
 }
