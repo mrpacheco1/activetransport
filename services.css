@@ -18,7 +18,7 @@ img{
 
 	}
 		
-nav{
+#banner nav{
 	position:relative;
 	margin:auto;
 	margin-top:-15px;
@@ -27,7 +27,7 @@ nav{
 	height:40px;
 }
 	
-li{
+#banner li{
 	display:inline;
 	font-size:30px;
 	padding:10px;
@@ -40,7 +40,7 @@ a{
 	color:#f1f6ec;
 }
 
-li:hover{	
+#banner li:hover{	
 	text-shadow: 0px 0px 20px #3c5523;	
   }
 .S:active{
@@ -269,3 +269,32 @@ position:absolute;
 right:10px;
 font-family: 'Philosopher', sans-serif;
 }	
+
+#lst{
+	position: relative;
+	background: ---red;
+	width: 1000px;
+	height: 450px;
+    margin-left: 500px;
+}
+#lista1{
+	position: absolute;
+}
+
+.list1{
+	display: block;
+	color: black;
+	font-size: 23px;
+	left:100px;
+}
+#lista2{
+	position: absolute;
+
+}
+
+.list2{
+	display: block;
+	color: black;
+	margin-left: 500px;
+	font-size: 23px;
+}
