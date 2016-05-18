@@ -40,6 +40,16 @@ text-decoration:none;
 color:#f1f6ec;
 }
 
+#midcontent a{
+	color: blue;
+	text-decoration: underline;
+}
+#bcontent a{
+	color: blue;
+	text-decoration: underline;
+}
+
+
 li:hover{	
   text-shadow: 0px 0px 20px #3c5523;	
 }

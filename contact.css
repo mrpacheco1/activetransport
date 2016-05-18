@@ -91,6 +91,11 @@ li:hover{
 	height:350px;
 
 	}
+	
+	#midcontent a{
+	color: blue;
+	text-decoration: underline;
+}
 
 #info{
 	position:absolute;
